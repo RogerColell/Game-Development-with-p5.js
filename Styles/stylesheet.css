@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: red;
+    font-size: 150%;
+   margin-left: 1%;
+}
+
+body{
+    background-image: url(../Imgs/BGimage.jpg);
+}
+
+#container{
+    margin-left: 40%;
+    margin-bottom: 1%;
+    
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 40%;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+    border-top: 2px solid white;
+    color: red;
+    text-align: center;
+  }
+  #ControlsTitol{
+    float: right;
+    margin-top: 10%;
+    margin-right: 10%;
+   
+  }
+  #Controls img{
+      margin-top: 4%; 
+      
+      float: right;
+      margin-right: 3%;
+  }
+  #secondrow{
+      margin-right: 13%;
+  }
+  #arrows{
+      clear: both;
+      float: right;
+      width: 35%;
+      margin-right: 8%;
+      margin-top: 5%;
+  }
+  #space{
+      clear:both;
+      float: right;
+      width : 30%;
+      margin-right: 8%;
+      margin-top: 2%;
+  }
+  #titol{
+      width: 30%;
+      margin-left: 15%;
+
+  }
